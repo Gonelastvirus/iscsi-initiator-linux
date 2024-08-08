@@ -1,7 +1,7 @@
 # Installation
 ## Install python pip
-sudo apt update
-sudo apt install python3 python3-pip
+  sudo apt update <br>
+  sudo apt install python3 python3-pip
 ## Install pyQT5
 pip install PyQt5
 ## Install open-iscsi
